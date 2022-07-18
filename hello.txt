@@ -1,0 +1,23 @@
+1) What is String[] args?
+ans) pass argument runing the program
+
+2) what is class?
+ans) class is like a blueprint/temple
+
+
+class Laptop{
+
+	private String model;
+	private String ram;
+	private String hardisk;
+	
+} 
+
+3) what is state and beheivor?
+ans) state like a variable amd beheivor is like to method
+
+4) how to create object in java
+ans) first write the class name then give object name after = to write new keyword for allocate the memory to class and then call to construter
+
+
+
