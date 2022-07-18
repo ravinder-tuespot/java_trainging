@@ -1,0 +1,16 @@
+package com.tuespot;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		//first classname       objectName          to create and allocate the memory to class
+		//Dog                     dog=                new                                            Dog();
+		
+		System.out.println(Dog.color);
+		//System.out.println(dog.leg);
+		System.out.println(Dog.eating());
+		System.out.println("Add two numbers "+Dog.add(10, 10));
+		
+		
+	}
+}

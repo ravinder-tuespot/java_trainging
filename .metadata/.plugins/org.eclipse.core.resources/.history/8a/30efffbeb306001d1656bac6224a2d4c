@@ -1,0 +1,10 @@
+package com.tuespot;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		//first classname       objectName          to create and allocate the memory to class
+		Dog                     dog=                new                                            Dog();
+		
+	}
+}

@@ -1,0 +1,20 @@
+// keyword
+package              com.tuespot;
+
+
+//access modifiear        keyworld         className
+public                    class             Dog {
+	
+	// this is states 
+	String color="red";
+	String leg="4";
+
+	// second part of class is beheavior
+	// access modifiear      return type 
+	public        static            void         eating() {
+		System.out.println("Eating");
+	}
+	
+	
+	
+}
